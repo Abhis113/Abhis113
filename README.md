@@ -92,6 +92,30 @@
 <p><a href="https://github.com/Abhis113" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/abhishek-kumar-8915a314a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
+ <h2>Quick Stats about me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='25px' height="25px" align="center"></h2>
+
+| 📊 Github Stats | 📊 Current Strek  |
+| --- | --- |
+| ![ Abhishek Kumar GitHub stats](https://github-readme-stats.vercel.app/api?username= Abhis113&show_icons=true&theme=dark&title_color=FDA117&text_color=F2E9DB) | [![GitHub Streak](https://streak-stats.demolab.com?user=Abhis113&theme=dark)](https://git.io/streak-stats) |
+
+
+
+
+
+<!-- | 📊 Top Languages | 📈 Contribution Graph  |
+| :--- | --- |
+| <img height=200 width=350 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=Abhis113&layout=demo&langs_count=10&hide_border=true&role=OWNER,COLLABORATOR&theme=dark&text_color=F2E9DB" alt="Atul Krishna Language stats" /> | <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Abhis113&theme=react-dark&hide_border=true&area=true&color=BDDFFF&line=6E93B5&point=F4B520" height="10%" width="100%"/> | -->
+
+
+| 📊 Top Languages | 📈 Contribution Graph  |
+| :--- | --- |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhis113&layout=demo&langs_count=10&hide_border=true&role=OWNER,COLLABORATOR&theme=dark&text_color=F2E9DB)](https://github.com/atul85400krishna/github-readme-stats)| <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Abhis113&theme=react-dark&hide_border=true&area=true&color=BDDFFF&line=6E93B5&point=F4B520" height="10%" width="100%"/> |
+
+
+
+  
+ <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
 <h3 align="center">Visitor's Count :  <img align="center" src="https://profile-counter.glitch.me/mm-asraf/count.svg"/></h3>
 
 ------------
