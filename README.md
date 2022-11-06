@@ -7,10 +7,10 @@
 
 ##### . 👋 Hi, I’m Abhishek kumar
 ##### . 🌱 I’m currently into full-stack Development with the use of MERN Stack.
-##### . 📫 I'm currently Learning Java
+##### . 📫 I'm currently Learning Typescript
 ##### . 🌱 Ask me anything about coding with Javascript, ReactJS and NodeJS
 ##### . 💞️ I’m looking for full-time opportunity in frontend || backend || full-stack
-##### . 📫 How to reach me karunesh029@gmail.com
+##### . 📫 How to reach me abhishekranjangecd@gmail.com
 
 <h3>Things I code with</h3>
 <h3 align="left">Tech Stacks :</h3>
