@@ -96,7 +96,7 @@
 
 | 📊 Github Stats | 📊 Current Strek  |
 | --- | --- |
-| ![ Abhishek Kumar GitHub stats](https://github-readme-stats.vercel.app/api?username= Abhis113 &show_icons=true&theme=dark&title_color=FDA117&text_color=F2E9DB) | [![GitHub Streak](https://streak-stats.demolab.com?user=Abhis113 &theme=dark)](https://git.io/streak-stats) |
+| ![ Abhishek Kumar GitHub stats](https://github-readme-stats.vercel.app/api?username= Abhis113&show_icons=true&theme=dark&title_color=FDA117&text_color=F2E9DB) | [![GitHub Streak](https://streak-stats.demolab.com?user=Abhis113&theme=dark)](https://git.io/streak-stats) |
 
 
 
