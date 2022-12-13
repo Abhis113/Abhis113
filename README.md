@@ -1,102 +1,78 @@
- <h1 align="center"> Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"/> I'm Abhishek kumar <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<!-- <div align="center">
+  <img align="center" width='750' height='250'  src="https://user-images.githubusercontent.com/101388961/185494692-c2286f2d-7eb6-49be-ac70-768d2f54f05c.gif" alt="Abhishek Kumar" />
+</div> -->
 
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=007FFF&lines=Full+Stack+Developer+%3A)" /> </h3>
+<br/>
+ <h1>### Hi there, I'm Abhishek Kumar 👋 </h1> 
+ <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="231">
 
-<!-- <h3><i>A Passionate & Enthusiastic Full-Stack Web Developer</i></h3> -->
-<!-- <p>From Starting Learning Machine Design  to the running sets of logics in the javascript Engine,The journey of learning has been great. I am fascinating about how a chunks of code can do magics. I am more excited to be a part of those revolutionary ideas that will gonna  impact the billions of lives,That's why I joined coding bootcamp to accelerate my gears of intense learning desires in the Full Stack Web Development. </p> -->
+  <a href="https://github.com/Abhis113/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&left=true&width=400&height=50"></a>
 
-##### . 👋 Hi, I’m Abhishek kumar
-##### . 🌱 I’m currently into full-stack Development with the use of MERN Stack.
-##### . 📫 I'm currently Learning Typescript
-##### . 🌱 Ask me anything about coding with Javascript, ReactJS and NodeJS
-##### . 💞️ I’m looking for full-time opportunity in frontend || backend || full-stack
-##### . 📫 How to reach me abhishekranjangecd@gmail.com
+<p> <img height="20px" src="https://komarev.com/ghpvc/?username=Abhis113&label=Profile%20views&color=0e75b6&style=flat" alt="Abhis113" /> </p>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+<h3>A position of Full Stack Developer, so
+where I can put my experience in
+developing software for the web to
+good use. I am looking for a position
+where I can continue utilizing my
+skills and experience.</h3>
 
-<h3>Things I code with</h3>
-<h3 align="left">Tech Stacks :</h3>
-<div align="left">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-<img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-<img alt="postman" src="https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=postman&logoColor=white"/>
-<img alt="styled components" src="https://img.shields.io/badge/Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white"/>
-<img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>	
-	
+- 👨‍💻 Checkout my [Portfolio](//)
+- 📋 Checkout my [Resume](//)
+- 📧 How to reach me, [email](mailto:abhishekranjangecd@gmail.com) :)
 
-</div>
+<h2 align="left">Connect with me:  <img src='https://raw.githubusercontent.com/Abhis113/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"></h2>
 
-<h3 align="left">Languages :</h3>
-<div align="left">
- <!-- <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> -->
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-<!--   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> -->
-</div>
-
-<h3 align="left">Databases :</h3>
-<div align="left">
-<!--   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> -->
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<!--   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/> -->
-<!--   <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> -->
-</div>
-
-
-<h3 align="left">Hosting :</h3>
-<div align="left">
-
-  <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</div><br/>
-
-
-
-<!-- <h3><i>GitHub's Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></i></h3>
-<p> -->
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mm-asraf&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="asraf" height="139"/>
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mm-asraf&layout=compact&exclude_repo=FT-WEB-12-U3-C4-Eval&border_radius=0" alt="asraf" height="139" /> -->
-</p>
-
-
-
-
-<!-- <h3><i>Top Repositories <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.rapidapi.com%2Fwp-content%2Fuploads%2F2017%2F01%2Foctocat.gif&f=1&nofb=1" width="50" /> </i></h3> -->
-
-<p>
-	
+<p align="left">
+  <a href="https://www.linkedin.com/in/abhishek-kumar-8915a314a/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abhis113" height="35" width="70" align="center" />
+  </a>
  
 </p>
 
-<!-- <h3>My latest posts</h3>
-<ul>
-  <li><a href="https://hashnode.com/post/cloning-of-e-commerce-website-tanishqcoin-cksxeehp10myukxs1eabcaqcc"> How You Should Structure your Plan as a Beginner to clone a Website</i></li>
-    
-   <li><a href="https://shwetamane13.hashnode.dev/cloning-the-purplle-website"> How to clone any website and their basic functionalities using DOM</i></li>
-    
+<h2 align="left">Languages and Tools:  <img src = "https://raw.githubusercontent.com/Abhis113/githubProfileReadmeGenerator/main/gifs/code.gif" width = 34px height=34px align="center"> </h2>
+
+<p> 
+<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="40"/>
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849653/node-js_tkywbk.png" alt="nodejs-logo" width='40'/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="50" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="40"/> -->
+   
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
+    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+  <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
+ <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
+ <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
   
-  <li><a href="https://hashnode.com/post/cloning-of-e-commerce-website-sugarcosmetic-mvp-clone-cku8cpsau0hn6szs15j8bcy53"><b>Pro Tips To work in a team as a Beginner and how you should think before cloning any website</b></a><br/></li> -->
   
   
-  
-</ul>
+ </p>
 
+ <h2>Quick Stats about me: <img src='https://raw.githubusercontent.com/Abhis113/githubProfileReadmeGenerator/main/gifs/github.gif' width='25px' height="25px" align="center"></h2>
 
-
-
-<h3>Where to find me</h3>
-<p><a href="https://github.com/Abhis113" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/abhishek-kumar-8915a314a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
-
- <h2>Quick Stats about me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='25px' height="25px" align="center"></h2>
-
-<!-- | 📊 Github Stats | 📊 Current Strek  |
+| 📊 Github Stats | 📊 Current Strek  |
 | --- | --- |
-| ![ Abhishek Kumar GitHub stats](https://github-readme-stats.vercel.app/api?username= Abhis113&show_icons=true&theme=dark&title_color=FDA117&text_color=F2E9DB) | [![GitHub Streak](https://streak-stats.demolab.com?user=Abhis113&theme=dark)](https://git.io/streak-stats) | -->
+| ![ Abhishek Kumar GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhis113&show_icons=true&theme=dark&title_color=FDA117&text_color=F2E9DB) | [![GitHub Streak](https://streak-stats.demolab.com?user=Abhis113&theme=dark)](https://git.io/streak-stats) |
+
+
+
 
 
 
@@ -104,20 +80,10 @@
 
 <!-- | 📊 Top Languages | 📈 Contribution Graph  |
 | :--- | --- |
-| <img height=200 width=350 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=Abhis113&layout=demo&langs_count=10&hide_border=true&role=OWNER,COLLABORATOR&theme=dark&text_color=F2E9DB" alt="Atul Krishna Language stats" /> | <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Abhis113&theme=react-dark&hide_border=true&area=true&color=BDDFFF&line=6E93B5&point=F4B520" height="10%" width="100%"/> | -->
-
-
-| 📊 Top Languages | 📈 Contribution Graph  |
-| :--- | --- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhis113&layout=demo&langs_count=10&hide_border=true&role=OWNER,COLLABORATOR&theme=dark&text_color=F2E9DB)](https://github.com/atul85400krishna/github-readme-stats)| <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Abhis113&theme=react-dark&hide_border=true&area=true&color=BDDFFF&line=6E93B5&point=F4B520" height="10%" width="100%"/> |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhis113&layout=demo&langs_count=10&hide_border=true&role=OWNER,COLLABORATOR&theme=dark&text_color=F2E9DB)](https://github.com/Abhis113/github-readme-stats)| <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Abhis113&theme=react-dark&hide_border=true&area=true&color=BDDFFF&line=6E93B5&point=F4B520" height="10%" width="100%"/> | -->
 
 
 
   
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-<h3 align="center">Visitor's Count :  <img align="center" src="https://profile-counter.glitch.me/mm-asraf/count.svg"/></h3>
-
-------------
-<h3 align="center">Thank You! For visiting My Profile :smiley:</h3>
 
