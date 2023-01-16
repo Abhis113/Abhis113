@@ -69,8 +69,8 @@ skills and experience.</h3>
 
 
 | 📊 Github Status | 📊 Current Strek  |
-| --- | --- |
-| ![ Abhishek Kumar GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhis113&show_icons=true&theme=dark&title_color=FDA117&text_color=F2E9DB) | [![GitHub Streak](https://streak-stats.demolab.com?user=Abhis113&theme=dark)](https://git.io/streak-stats) |
+<!-- | --- | --- |
+| ![ Abhishek Kumar GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhis113&show_icons=true&theme=dark&title_color=FDA117&text_color=F2E9DB) | [![GitHub Streak](https://streak-stats.demolab.com?user=Abhis113&theme=dark)](https://git.io/streak-stats) | -->
 
 <!--  -->
 <!----------------------------------- GitHub Stats Section ------------------------------------>
@@ -101,8 +101,8 @@ skills and experience.</h3>
 
 
 
-
-<!-- | 📊 Top Languages | 📈 Contribution Graph  |
+<!-- 
+| 📊 Top Languages | 📈 Contribution Graph  |
 | :--- | --- |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhis113&layout=demo&langs_count=10&hide_border=true&role=OWNER,COLLABORATOR&theme=dark&text_color=F2E9DB)](https://github.com/Abhis113/github-readme-stats)| <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Abhis113&theme=react-dark&hide_border=true&area=true&color=BDDFFF&line=6E93B5&point=F4B520" height="10%" width="100%"/> | -->
 
