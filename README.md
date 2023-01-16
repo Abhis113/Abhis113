@@ -67,9 +67,11 @@ skills and experience.</h3>
 
  <h2>Quick Stats about me: <img src='https://raw.githubusercontent.com/Abhis113/githubProfileReadmeGenerator/main/gifs/github.gif' width='25px' height="25px" align="center"></h2>
 
+
 | 📊 Github Stats | 📊 Current Strek  |
 | --- | --- |
-| ![ Abhishek Kumar GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhis113&show_icons=true&theme=dark&title_color=FDA117&text_color=F2E9DB) | [![GitHub Streak](https://streak-stats.demolab.com?user=Abhis113&theme=dark)](https://git.io/streak-stats) |
+| ![ Abhishek kumar GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhis113&show_icons=true&theme=dark&title_color=FDA117&text_color=F2E9DB) | [![GitHub Streak](https://streak-stats.demolab.com?user=Abhis113&theme=dark)](https://git.io/streak-stats) |
+
 
 
 
