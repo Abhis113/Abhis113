@@ -68,7 +68,7 @@ skills and experience.</h3>
  <h2>Quick Stats about me: <img src='https://raw.githubusercontent.com/Abhis113/githubProfileReadmeGenerator/main/gifs/github.gif' width='25px' height="25px" align="center"></h2>
 
 
-| 📊 Github Status | 📊 Current Strek  |
+
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 <h2 align="center"><i>GitHub 📈 Stats</i></h2>
@@ -77,7 +77,7 @@ skills and experience.</h3>
   
 <p align="center">
 <!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhis113&show_icons=true&hide_border=true&theme=radical" /> -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh777&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhis113&hide_border=true&theme=radical" />
 </p>
 
 
@@ -92,19 +92,33 @@ skills and experience.</h3>
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 </p>
 <br>
-<!--  -->
+<!----------------------------------- Tech Languages ------------------------------------>
+<p align="center">
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhis113&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="Lokesh777" /> -->
+<!--  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhis113&layout=compact&hide_border=true&theme=radical" /> -->
+</p>
+<p align="center">
+</p>
+<br>
+<!----------------------------------- Git Status ------------------------------------>
+<!--  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhis113&show_icons=true&locale=en&&theme=highcontrast" alt="Abhis113" /></p> -->
+<br>
+<p align="center"><a href="https://github-profile-trophy.vercel.app/?username=Lokesh777&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=Abhis113&theme=algolia" alt="Abhis113" /></a></p> 
+<br>
 
 
+<!-- ---------------------------------git deposite----------------------------->
 
+<!-- <h2 align="center"><i>📕 Pinned Repositories</i></h2>
 
+<a href="https://github.com/Abhis113/kimayeclone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhis113&repo=kimayeclone&hide_border=true&theme=radical" />
+</a>
+ -->
+<!-- ________________________-____________________contribution___________________________ -->
 
-<!-- 
-| 📊 Top Languages | 📈 Contribution Graph  |
-| :--- | --- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhis113&layout=demo&langs_count=10&hide_border=true&role=OWNER,COLLABORATOR&theme=dark&text_color=F2E9DB)](https://github.com/Abhis113/github-readme-stats)| <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Abhis113&theme=react-dark&hide_border=true&area=true&color=BDDFFF&line=6E93B5&point=F4B520" height="10%" width="100%"/> | -->
-
-
-
-  
+<!-- <h2 align="center"><i>📈 Contribution Graph</i></h2> -->
+<!--  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Abhis113&theme=react-dark&hide_border=true&area=true&color=BDDFFF&line=6E93B5&point=F4B520" height="10%" width="100%"/> 
+ <br> -->
+ 
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
