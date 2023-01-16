@@ -65,7 +65,7 @@ skills and experience.</h3>
   
  </p>
 
- <h2>Quick Stats about me: <img src='https://raw.githubusercontent.com/Abhis113/githubProfileReadmeGenerator/main/gifs/github.gif' width='25px' height="25px" align="center"></h2>
+
 
 
 
@@ -94,7 +94,7 @@ skills and experience.</h3>
 <br>
 <!----------------------------------- Tech Languages ------------------------------------>
 <p align="center">
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhis113&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="Lokesh777" /> -->
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhis113&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="Abhis113" /> -->
 <!--  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhis113&layout=compact&hide_border=true&theme=radical" /> -->
 </p>
 <p align="center">
@@ -103,7 +103,7 @@ skills and experience.</h3>
 <!----------------------------------- Git Status ------------------------------------>
 <!--  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhis113&show_icons=true&locale=en&&theme=highcontrast" alt="Abhis113" /></p> -->
 <br>
-<p align="center"><a href="https://github-profile-trophy.vercel.app/?username=Lokesh777&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=Abhis113&theme=algolia" alt="Abhis113" /></a></p> 
+<p align="center"><a href="https://github-profile-trophy.vercel.app/?username=Abhis113&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=Abhis113&theme=algolia" alt="Abhis113" /></a></p> 
 <br>
 
 
