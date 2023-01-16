@@ -72,7 +72,30 @@ skills and experience.</h3>
 | --- | --- |
 | ![ Abhishek Kumar GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhis113&show_icons=true&theme=dark&title_color=FDA117&text_color=F2E9DB) | [![GitHub Streak](https://streak-stats.demolab.com?user=Abhis113&theme=dark)](https://git.io/streak-stats) |
 
+<!--  -->
+<!----------------------------------- GitHub Stats Section ------------------------------------>
+<h2 align="center"><i>GitHub 📈 Stats</i></h2>
+<p align="center"></p>
+<p align="center">
+  
+<p align="center">
+<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lokesh777&show_icons=true&hide_border=true&theme=radical" /> -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh777&hide_border=true&theme=radical" />
+</p>
 
+
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh777&&theme=highcontrast" alt="Lokesh777"/> -->
+  </p>
+<p align="center">
+    
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Lokesh777&theme=github-dark" />
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lokesh777&theme=2077"/>
+
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+</p>
+<br>
+<!--  -->
 
 
 
