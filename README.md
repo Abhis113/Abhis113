@@ -18,7 +18,7 @@ where I can continue utilizing my
 skills and experience.</h3>
 
 - 👨‍💻 Checkout my [Portfolio](https://abhis113.github.io/)
-- 📋 Checkout my [Resume](https://drive.google.com/file/d/1wRA38EkkDnT64bRPJ_AnZ4-ihcYQGHKQ/view?usp=share_link)
+- 📋 Checkout my [Resume](https://drive.google.com/file/d/18CuvDcjixOVsjkWtsKJuEwNWh2Ysa0k7/view?usp=sharing)
 - 📧 How to reach me, [email](mailto:abhishekranjangecd@gmail.com) :)
 
 <h2 align="left">Connect with me:  <img src='https://raw.githubusercontent.com/Abhis113/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"></h2>
